@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Graphics Director"
+  short_description: "Professionelle Motion Graphics mit Remotion"
+  default_prompt: "Nutze $motion-graphics-director für einen hochwertigen Social-Media-Clip mit ausgearbeiteter Gestaltung, präziser Bewegung und passendem Sound."

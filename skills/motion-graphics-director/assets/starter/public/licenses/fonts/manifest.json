@@ -1,0 +1,21 @@
+[
+  {
+    "family": "Space Grotesk",
+    "package": "@fontsource/space-grotesk",
+    "source": "https://github.com/floriankarsten/space-grotesk",
+    "license": "OFL-1.1",
+    "weights": [
+      500,
+      700
+    ]
+  },
+  {
+    "family": "Barlow Condensed",
+    "package": "@fontsource/barlow-condensed",
+    "source": "https://github.com/jpt/barlow",
+    "license": "OFL-1.1",
+    "weights": [
+      600
+    ]
+  }
+]
